@@ -1,0 +1,20 @@
+package com.Spring.ex1.Springex1;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+        Trainer t1;
+        t1=new JavaTrainer();
+        t1.tech();
+        t1.takeAttendence();
+        t1=new PythonTrainer();
+        t1.tech();
+        t1.takeAttendence();
+        
+        t1=new DBTrainer();
+        t1.tech();
+        t1.takeAttendence();
+        
+    }
+}

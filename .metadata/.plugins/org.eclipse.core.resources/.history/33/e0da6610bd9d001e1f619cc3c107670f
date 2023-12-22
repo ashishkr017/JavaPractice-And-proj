@@ -1,0 +1,13 @@
+package com.hibernate.ex2.HibernateProj2;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

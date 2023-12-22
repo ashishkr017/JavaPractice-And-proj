@@ -1,0 +1,5 @@
+package com.hibernate.ex3;
+
+public class Customer {
+
+}

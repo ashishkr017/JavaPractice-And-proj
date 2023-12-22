@@ -1,0 +1,5 @@
+package spring.autowiringex4.springAutoWriingEx4;
+
+public class Person {
+
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.springframework.org/schema/beans
+  https://www.springframework.org/schema/beans/spring-beans.xsd">
+  
+  <bean class="SpringEx2Lapt.SpringExam2Lapto.Laptop" id="l1">
+  <property name="serialNo" value="110"></property>
+  <property name="Brand" value="Msi"></property>
+  <property name="price" value="50000"></property>
+  
+  </bean>
+  
+  <bean class="SpringEx2Lapt.SpringExam2Lapto.Laptop" id="l2">
+  <property name="serialNo" value="111"></property>
+  <property name="Brand" value="Asus"></property>
+  <property name="price" value="60000"></property>
+  
+  </bean>
+  
+  
+  </beans>

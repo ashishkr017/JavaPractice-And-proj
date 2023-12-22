@@ -1,0 +1,13 @@
+package SpringEx2Lapt.SpringExam2Lapto;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

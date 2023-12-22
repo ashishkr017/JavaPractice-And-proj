@@ -1,0 +1,13 @@
+package SpringEx3DmList.SpringEx3ListDataMemb;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

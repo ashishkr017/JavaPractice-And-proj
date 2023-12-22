@@ -1,0 +1,12 @@
+package springObjectBeanex4.springObjectBean;
+
+public class StudentClass 
+{
+  Trainer tr;
+
+public StudentClass() {
+	super();
+	// TODO Auto-generated constructor stub
+}
+  
+}

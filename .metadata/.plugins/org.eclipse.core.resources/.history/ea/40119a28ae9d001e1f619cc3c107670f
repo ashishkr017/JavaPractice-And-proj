@@ -1,0 +1,5 @@
+package com.hibernate.ex1.HibernateProj1;
+
+public class Student {
+
+}
